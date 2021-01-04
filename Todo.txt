@@ -1,0 +1,4 @@
+make the code more modular
+write down the gradiant you took before
+add the multiagent case for this problem.
+Leaning the idea for the stable system using the adaptive system theory
